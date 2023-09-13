@@ -38,10 +38,10 @@ I think this is a practical solution. (2023/09/13)
 
 ### Links
 
-[Getting Started (Setup Contract)](https://docs.chain.link/chainlink-automation/compatible-contracts)
-[AutomationCompatibleInterface.sol](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/automation/interfaces/AutomationCompatibleInterface.sol)
-[Setup Time-based Automation](https://docs.chain.link/chainlink-automation/job-scheduler)
-[Setup Custom Logic Automation](https://docs.chain.link/chainlink-automation/register-upkeep)
-[Chainlink Automation App](https://automation.chain.link/)
-[Sample on Remix](https://remix.ethereum.org/#url=https://docs.chain.link/samples/Automation/AutomationCounter.sol&lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.18+commit.87f61d96.js)
-[LINK faucet in sepolia](https://faucets.chain.link/sepolia)
+- [Getting Started (Setup Contract)](https://docs.chain.link/chainlink-automation/compatible-contracts)
+- [AutomationCompatibleInterface.sol](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/automation/interfaces/AutomationCompatibleInterface.sol)
+- [Setup Time-based Automation](https://docs.chain.link/chainlink-automation/job-scheduler)
+- [Setup Custom Logic Automation](https://docs.chain.link/chainlink-automation/register-upkeep)
+- [Chainlink Automation App](https://automation.chain.link/)
+- [Sample on Remix](https://remix.ethereum.org/#url=https://docs.chain.link/samples/Automation/AutomationCounter.sol&lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.18+commit.87f61d96.js)
+- [LINK faucet in sepolia](https://faucets.chain.link/sepolia)
